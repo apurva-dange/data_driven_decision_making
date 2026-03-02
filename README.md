@@ -5,8 +5,8 @@
 > *"Everyone has an opinion about whether Marvel is declining. This project is about replacing that opinion with evidence."*
 
 <p align="center">
-  <img src="PLACEHOLDER_PROJECT_BANNER" 
-       alt="Marvel Movies Data Analysis" width="90%" />
+  <img src="https://github.com/apurva-dange/data_driven_decision_making/blob/main/project_media/marvel.jpeg" 
+       alt="Marvel Movies Data Analysis" width="60%" />
 </p>
 
 ## 📌 What Is This Project?

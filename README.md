@@ -171,9 +171,9 @@ Time-series visualization was used first because understanding the shape and dir
 
 ## 🔗 Project Links
 
-📄 [Full Project Report (Google Docs)](https://docs.google.com/document/d/1gBjZPqe5CVxWOxn_q2LkYqS2vCdgmH0_PDCxLFSrK2M/edit?usp=sharing)
+📄 [Full Project Report](https://github.com/apurva-dange/data_driven_decision_making/blob/main/Project%205%20-%20Marvel%20Movie%20Dataset%20Predictive%20Analysis%20(1).pdf)
 
-💻 [Jupyter Notebook Code (Google Drive)](https://drive.google.com/file/d/1X0zywdmWVD-PE-vkvge__NtTZ6QrKiK-/view?usp=sharing)
+💻 [Jupyter Notebook Code](https://github.com/apurva-dange/data_driven_decision_making/blob/main/data_analysis.ipynb)
 
 📊 [Kaggle Dataset — Marvel Movies Dataset](https://www.kaggle.com/datasets/sarthakbharad/marvel-movies-dataset)
 

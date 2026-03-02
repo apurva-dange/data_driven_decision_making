@@ -1,6 +1,6 @@
 # Is the Marvel Era Over? A Data-Driven Profitability Analysis
 - Team: Apurva Dange & Ankush Harishchandre 
-- Course: TEM 505 Data Driven Decision Making | Arizona State University
+- Course: TEM 505 Data Driven Decision Making
 
 > *"Everyone has an opinion about whether Marvel is declining. This project is about replacing that opinion with evidence."*
 

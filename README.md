@@ -1,3 +1,4 @@
+
 # Is the Marvel Era Over? A Data-Driven Profitability Analysis
 - Team: Apurva Dange & Ankush Harishchandre 
 - Course: TEM 505 Data Driven Decision Making
@@ -8,6 +9,25 @@
   <img src="https://github.com/apurva-dange/data_driven_decision_making/blob/main/project_media/marvel.jpeg" 
        alt="Marvel Movies Data Analysis" width="60%" />
 </p>
+
+## TL;DR
+> 
+> Analyzed Marvel movies (2008–present) to answer: Is Marvel declining?
+> 
+> KEY FINDINGS:
+> • CinemaScore (audience reaction) is the #1 profit predictor (r = 0.66)
+> • Critic scores dropped significantly post-2021 (p = 0.038, statistically real)
+> • Profit decline is NOT yet statistically significant, but variance spiked (= more risk)
+> • Budget is the WEAKEST profit predictor, spending more ≠ earning more
+> 
+> MODEL: Multiple linear regression on 3 inputs → explains 66% of profit variance
+> 
+> VERDICT: Marvel shifted from stable low-risk asset → high-variance unpredictable one.
+>          The era isn't "over," but brand loyalty no longer guarantees returns.
+> 
+> STACK: Python · Pandas · Scikit-learn · SciPy · Seaborn · Jupyter
+> TECHNIQUES: Time-series EDA → Pearson Correlation → Welch's T-test → MLR + train/test validation
+
 
 ## 📌 What Is This Project?
 
